@@ -1,0 +1,14 @@
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\bin\Debug\net9.0\TrisGame.exe
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\bin\Debug\net9.0\TrisGame.deps.json
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\bin\Debug\net9.0\TrisGame.runtimeconfig.json
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\bin\Debug\net9.0\TrisGame.dll
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\bin\Debug\net9.0\TrisGame.pdb
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.AssemblyInfoInputs.cache
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.AssemblyInfo.cs
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.csproj.CoreCompileInputs.cache
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.dll
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\refint\TrisGame.dll
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.pdb
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\TrisGame.genruntimeconfig.cache
+C:\Users\tagli\RiderProjects\TrisGame\TrisGame\obj\Debug\net9.0\ref\TrisGame.dll
